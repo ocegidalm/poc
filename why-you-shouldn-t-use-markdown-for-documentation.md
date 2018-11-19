@@ -176,7 +176,7 @@ Note
 
 I have covered the ideas around semantics more in my post [<span class="std
 std-ref">Semantic Meaning in Authoring
-Documentation</span>](../../../oct/6/authoring-documentation-with-semantic-meaning/#semantic-meaning).
+Documentation</span>](http://www.ericholscher.com/blog/2016/oct/6/authoring-documentation-with-semantic-meaning/#semantic-meaning).
 
 ## Lock In and Lack of Portability
 
