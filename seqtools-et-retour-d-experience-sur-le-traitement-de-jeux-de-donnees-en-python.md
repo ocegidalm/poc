@@ -8,6 +8,8 @@ SeqTools est une librairie que j'ai créée pour transformer des jeux de donnée
 L'objectif principal consiste à prendre une ou plusieurs sources de données et de les combiner ou de modifier leurs éléments pour obtenir une version transformée.
 Par exemple, partant d'une liste de noms de fichiers d'images, on souhaite les charger, les redimensionner puis les passer en noir et blanc.
 
+![Une image](images/gather.png "Une image")
+
 Pour essayer de rendre la présentation plus intéressante, je vais essayer de présenter deux aspects de la librairie qui peuvent intéresser un plus large public.
 
 ## Évaluation à la demande
