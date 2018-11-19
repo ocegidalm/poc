@@ -8,4 +8,5 @@ POC Markdown
 
 .. toctree::
 
+   why-you-shouldn-t-use-markdown-for-documentation
    seqtools-et-retour-d-experience-sur-le-traitement-de-jeux-de-donnees-en-python
